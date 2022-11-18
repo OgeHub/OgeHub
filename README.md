@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, Welcome to my github space🤝😊.
 
 <!--
-**OgeHub/OgeHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Success Ogechi Ezeh. I have 2️⃣ years of experience in software development💻, majoring in backend development🌟. 
+I build functional and efficient web services (APIs)🌐, web applications, and websites. 
+For relaxation😎, I love to watch movies🍿, read📖, sing🎙 and travel🛩.
 
-Here are some ideas to get you started:
+###📚 My major stacks includes:
+- NodeJS, ExpressJS, MongoDB, GraphQL, JavaScript, TypeScript, socket.io 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+####📚 Other stacks includes:
+- HTML, CSS, Bootstrap, ReactJS, Angular, Ionic
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/success-ezeh/) or send me an [email](ezehsuccess0476@gmail.com).  
+
+Have a good time exploring all my repositories.🙂
 -->
