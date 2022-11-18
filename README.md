@@ -10,6 +10,6 @@ For relaxation😎, I love to watch movies🍿, read📖, sing🎙 and travel�
 #### 📚 Other stacks includes:
 - HTML, CSS, Bootstrap, ReactJS, Angular, Ionic
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/success-ezeh/) or send me an [email](ezehsuccess0476@gmail.com).  
+Let's connect on [LinkedIn](https://www.linkedin.com/in/success-ezeh/) or send me an email: ezehsuccess0476@gmail.com  
 
 Have a good time exploring all my repositories.🙂
