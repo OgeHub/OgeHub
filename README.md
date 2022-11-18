@@ -4,10 +4,10 @@ My name is Success Ogechi Ezeh. I have 2️⃣ years of experience in software d
 I build functional and efficient web services (APIs)🌐, web applications, and websites. 
 For relaxation😎, I love to watch movies🍿, read📖, sing🎙 and travel🛩.
 
-###📚 My major stacks includes:
+### 📚 My major stacks includes:
 - NodeJS, ExpressJS, MongoDB, GraphQL, JavaScript, TypeScript, socket.io 
 
-####📚 Other stacks includes:
+#### 📚 Other stacks includes:
 - HTML, CSS, Bootstrap, ReactJS, Angular, Ionic
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/success-ezeh/) or send me an [email](ezehsuccess0476@gmail.com).  
