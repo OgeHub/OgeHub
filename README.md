@@ -1,7 +1,7 @@
 ### Hi there, Welcome to my github space🤝😊.
 
-My name is Success Ogechi Ezeh. I have 2️⃣ years of experience in software development💻, majoring in backend development🌟. 
-I build functional and efficient web services (APIs)🌐, web applications, and websites. 
+My name is Success Ogechi Ezeh. I have 2️⃣ years of experience in software development💻, majoring in backend development🌟.  
+I build functional and efficient web services (APIs)🌐, web applications, and websites.  
 For relaxation😎, I love to watch movies🍿, read📖, sing🎙 and travel🛩.
 
 ### 📚 My major stacks includes:
