@@ -1,15 +1,30 @@
 ### Hi there, Welcome to my github space🤝😊.
 
-My name is Success Ogechi Ezeh. I have 2️⃣ years of experience in software development💻, majoring in backend development🌟.  
-I build functional and efficient web services (APIs)🌐, web applications, and websites.  
-For relaxation😎, I love to watch movies🍿, read📖, sing🎙 and travel🛩.
+My name is Success Ogechi Ezeh. I am passionate about contributing towards software development💻, especially backend development🌟.  
+I build functional and efficient web services (APIs)🌐 for web applications, deskstop applications and mobile applications.  
+My hobbies😎 include watching movies🍿, reading📖, singing🎙 and traveling🛩.
 
-### 📚 My major stacks includes:
-- NodeJS, ExpressJS, MongoDB, GraphQL, JavaScript, TypeScript, socket.io 
+### Current Stack 
+ > ### Major language and tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript) ![Next.js](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js) ![Render](https://img.shields.io/badge/render-%23323330.svg?style=for-the-badge&logo=render) ![Heroku](https://img.shields.io/badge/heroku-%23323330.svg?style=for-the-badge&logo=heroku) 
 
-#### 📚 Other stacks includes:
-- HTML, CSS, Bootstrap, ReactJS, Angular, Ionic
+ > ### Other tools
+![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql) ![Sequelize](https://img.shields.io/badge/sequelize-%23323330.svg?style=for-the-badge&logo=sequelize) ![Socket.io](https://img.shields.io/badge/socket.io-%23323330.svg?style=for-the-badge&logo=socket.io) ![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap) ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify) 
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/success-ezeh/) or send me an email: ezehsuccess0476@gmail.com  
+[![Success' GitHub stats](https://github-readme-stats.vercel.app/api?username=OgeHub&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)  
+
+[![Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=OgeHub&theme=gotham&count_private=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="https://github.com/EddieHubCommunity.png" height="40" /> I recently joined [EddieHub Community](https://github.com/EddieHubCommunity) and started contributing to open source.✨
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/success-ezeh/">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-%23323330.svg?style=for-the-badge&logo=linkedin" alt="Linkedin" />
+ </a>
+    <a href="ezehsuccess0476@gmail.com">
+    <img src="https://img.shields.io/badge/email%20me-%23323330.svg?style=for-the-badge&logo=gmail" alt="Email" />
+ </a>
+</p>
 
 Have a good time exploring all my repositories.🙂
