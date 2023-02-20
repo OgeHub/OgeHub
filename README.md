@@ -11,6 +11,8 @@ My hobbies😎 include watching movies🍿, reading📖, singing🎙 and traveli
  > ### Other tools
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Sequelize](https://img.shields.io/badge/sequelize-%23323330.svg?style=for-the-badge&logo=sequelize) ![Socket.io](https://img.shields.io/badge/socket.io-%23323330.svg?style=for-the-badge&logo=socket.io) ![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap) ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify) 
 
+<!--START_SECTION:activity-->
+
 [![Success' GitHub stats](https://github-readme-stats.vercel.app/api?username=OgeHub&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)  
 
 [![Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=OgeHub&theme=gotham&count_private=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
