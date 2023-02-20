@@ -14,10 +14,10 @@ My hobbies😎 include watching movies🍿, reading📖, singing🎙 and traveli
 ### ⚡Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/OgeHub/weatherApp/issues/3) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
-2. 🎉 Merged PR [#2](https://github.com/OgeHub/weatherApp/pull/2) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
-3. 🗣 Commented on [#2](https://github.com/OgeHub/weatherApp/issues/2) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
-4. 🗣 Commented on [#1](https://github.com/OgeHub/weatherApp/issues/1) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
-5. 🎉 Merged PR [#1](https://github.com/OgeHub/weatherApp/pull/1) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
+2. 🗣 Commented on [#3](https://github.com/OgeHub/weatherApp/issues/3) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
+3. 🎉 Merged PR [#2](https://github.com/OgeHub/weatherApp/pull/2) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
+4. 🗣 Commented on [#2](https://github.com/OgeHub/weatherApp/issues/2) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
+5. 🗣 Commented on [#1](https://github.com/OgeHub/weatherApp/issues/1) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
 <!--END_SECTION:activity-->
 
 [![Success' GitHub stats](https://github-readme-stats.vercel.app/api?username=OgeHub&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)  
