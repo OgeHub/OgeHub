@@ -11,6 +11,7 @@ My hobbies😎 include watching movies🍿, reading📖, singing🎙 and traveli
  > ### Other tools
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Sequelize](https://img.shields.io/badge/sequelize-%23323330.svg?style=for-the-badge&logo=sequelize) ![Socket.io](https://img.shields.io/badge/socket.io-%23323330.svg?style=for-the-badge&logo=socket.io) ![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap) ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify) 
 
+### ⚡Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/OgeHub/weatherApp/issues/3) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
 2. 🎉 Merged PR [#2](https://github.com/OgeHub/weatherApp/pull/2) in [OgeHub/weatherApp](https://github.com/OgeHub/weatherApp)
