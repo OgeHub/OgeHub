@@ -1,12 +1,13 @@
 ### Hi there, Welcome to my github space🤝😊.
 
-My name is Success Ogechi Ezeh. I am passionate about contributing towards software development💻, especially backend development🌟.  
-I build functional and efficient web services (APIs)🌐 for web applications, deskstop applications and mobile applications.  
+My name is Success Ogechi Ezeh. I am passionate about contributing towards software development💻, especially backend development🌟 leveraging cloud services.  
+I build functional and efficient web services (APIs)🌐 for web applications, and mobile applications.
+Work with cloud services such as AWS and Azure.
 My hobbies😎 include watching movies🍿, reading📖, singing🎙 and traveling🛩.
 
 ### Current Stack 
  > ### Major language and tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript) ![Nest.js](https://img.shields.io/badge/nest.js-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E) ![Render](https://img.shields.io/badge/render-%23323330.svg?style=for-the-badge&logo=render) ![Heroku](https://img.shields.io/badge/heroku-%23323330.svg?style=for-the-badge&logo=heroku&logoColor=430098) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript) ![Nest.js](https://img.shields.io/badge/nest.js-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E) ![AWS](https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=aws&logoColor=430098) ![Azure](https://img.shields.io/badge/azure-%23323330.svg?style=for-the-badge&logo=azure&logoColor=430098)  
 
  > ### Other tools
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Sequelize](https://img.shields.io/badge/sequelize-%23323330.svg?style=for-the-badge&logo=sequelize) ![Socket.io](https://img.shields.io/badge/socket.io-%23323330.svg?style=for-the-badge&logo=socket.io) ![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap) ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify) 
